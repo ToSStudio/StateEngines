@@ -6,6 +6,6 @@ tasks. A logical next step would be to write everything in OOP.
 A LED&Key-Shield was lying around and there was intel online about its useage. I ended up using the LEDs
 as the eight engines which have completely independent states (on- and off-Times).
 
-![LED, 7Segment and Keys-Module](images/TM1638_StateEng.jpg)
+![TM1638](https://user-images.githubusercontent.com/61556064/75483577-71178a00-59a7-11ea-9c4e-777b15dd0931.png)
 
 serves as an example.
