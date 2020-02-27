@@ -8,6 +8,6 @@ as the eight _engines_ which have completely independent _states_ (on- and off-T
 
 ![TM1638](https://user-images.githubusercontent.com/61556064/75483577-71178a00-59a7-11ea-9c4e-777b15dd0931.png)
 
-
+![TM1638_StateEng](https://user-images.githubusercontent.com/61556064/75485765-90181b00-59ab-11ea-940b-dbd21cfc73fa.gif)
 
 serves as an example.
